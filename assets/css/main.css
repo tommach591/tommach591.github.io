@@ -2093,7 +2093,8 @@ button,
     font-family: "Roboto Slab", serif;
     font-size: 200%; }
   #header .icons {
-    font-size: 150%;
+    font-size: 200%;
+    color: #3d4449;
     text-align: right; }
   @media screen and (max-width: 1680px) {
     #header {
@@ -2102,14 +2103,14 @@ button,
     #header {
       padding-top: 6.5em; }
       #header .logo {
-        font-size: 1.25em;
+        font-size: 200%;
         margin: 0; }
       #header .icons {
         height: 5em;
         line-height: 5em;
         position: absolute;
         right: -0.5em;
-        top: 0; } }
+        top: 1.5em; } }
 
 /* Banner */
 #banner {
