@@ -2091,8 +2091,9 @@ button,
     border-bottom: 0;
     color: inherit;
     font-family: "Roboto Slab", serif;
-    font-size: 1.125em; }
+    font-size: 200%; }
   #header .icons {
+    font-size: 150%;
     text-align: right; }
   @media screen and (max-width: 1680px) {
     #header {
